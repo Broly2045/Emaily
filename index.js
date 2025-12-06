@@ -1,12 +1,12 @@
-const express = require('express');
+const express = require("express");
 const app = express();
 
 //route handler
-app.get('/', (req, res) => {
-    res.send({ hi: 'there'})
-    });
+app.get("/", (req, res) => {
+  res.send({ bye: "buddy" });
+});
 
 const PORT = process.env.PORT || 5000;
-    
+
 //express is telling node to listen on port 5000
 app.listen(PORT);
