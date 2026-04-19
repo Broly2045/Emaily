@@ -7,12 +7,6 @@ This project was built as a learning-focused, production-style application follo
 
 ---
 
-## 🚀 Live Demo
-
-🔗 https://emaily-ffd7.onrender.com
-
----
-
 ## ✨ Key Features
 
 - 🔐 Google OAuth authentication using Passport.js
